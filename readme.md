@@ -1,3 +1,4 @@
+![DALL·E 2025-01-28 00 58 01 - A visually engaging digital illustration of a developer's workspace featuring two computer monitors  One monitor displays a React app with a colorful,](https://github.com/user-attachments/assets/8b7987b3-1354-410b-82b0-7eb970a58524)
 
 # React + Flask App on Vercel
 
